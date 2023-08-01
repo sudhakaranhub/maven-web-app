@@ -37,7 +37,7 @@
         .apply-button {
             padding: 10px 20px;
             background-color: #4CAF50;
-            color: blue;
+            color: yellow;
             font-weight: bold;
             text-decoration: none;
             border-radius: 5px;
